@@ -138,15 +138,15 @@
 }
 
 .slide1 {
-    background-image: url(images/slider1.jpg);
+    background-image: url(../images/slider1.jpg);
 }
 
 .slide2 {
-    background-image: url(images/slider2.jpg);
+    background-image: url(../images/slider2.jpg);
 }
 
 .slide3 {
-    background-image: url(images/slider3.jpg);
+    background-image: url(../images/slider3.jpg);
 }
 
 .slider-content {
@@ -381,7 +381,7 @@ input[type=date]{
 }
 .deluxe-hotel-img{
     height:411px;
-    background-image:url(images/hotel_feture_1.jpg);
+    background-image:url(../images/hotel_feture_1.jpg);
     background-position: center;
     background-size: cover;
     overflow: hidden;
@@ -473,10 +473,10 @@ input[type=date]{
     overflow: hidden;
 }
 .hotels-img1{
-    background-image: url(images/hotel_feture_2.jpg);
+    background-image: url(../images/hotel_feture_2.jpg);
 }
 .hotels-img2{
-    background-image: url(images/hotel_feture_3.jpg);
+    background-image: url(../images/hotel_feture_3.jpg);
 }
 .hotels-img:hover>.hover-card-ano{
     margin-right:0;
@@ -755,13 +755,13 @@ input[type=date]{
     background-size: cover;
 }
 .blog-img-1{
-    background-image: url(images/image-1.jpg);
+    background-image: url(../images/image-1.jpg);
 }
 .blog-img-2{
-    background-image: url(images/image-2.jpg);
+    background-image: url(../images/image-2.jpg);
 }
 .blog-img-3{
-    background-image: url(images/image-3.jpg);
+    background-image: url(../images/image-3.jpg);
 }
 .blog-thumb-section>img{
     width:100%;
